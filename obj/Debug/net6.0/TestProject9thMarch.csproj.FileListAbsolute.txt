@@ -1,0 +1,15 @@
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\bin\Debug\net6.0\TestProject9thMarch.exe
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\bin\Debug\net6.0\TestProject9thMarch.deps.json
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\bin\Debug\net6.0\TestProject9thMarch.runtimeconfig.json
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\bin\Debug\net6.0\TestProject9thMarch.dll
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\bin\Debug\net6.0\TestProject9thMarch.pdb
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.csproj.AssemblyReference.cache
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.AssemblyInfoInputs.cache
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.AssemblyInfo.cs
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.csproj.CoreCompileInputs.cache
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.dll
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\refint\TestProject9thMarch.dll
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.pdb
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\TestProject9thMarch.genruntimeconfig.cache
+C:\WorkingDirectory\.netProjects\TestProject9thMarch\TestProject9thMarch\obj\Debug\net6.0\ref\TestProject9thMarch.dll
